@@ -1,0 +1,10 @@
+{
+    "name": "Geospatial data tile renderer",
+    "description": "Render geospatial data using KTile and GeoJS",
+    "version": "1.0.0",
+    "npm": {
+        "dependencies": {
+            "geojs": "^0.11.0"
+        }
+    }
+}
